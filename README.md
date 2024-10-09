@@ -7,6 +7,7 @@
 ## Implementation
  - Make an account in [userapi.ai](https://userapi.ai)
  - Follow [THIS](https://medium.com/@divan.brexov/how-to-get-all-midjourney-functional-via-api-7ece4ab0660f) Blog to setup & connect to your MidJourney API.
+ - Setup a Webhook to expose endpoints - I prefer [Webhook.site](https://webhook.site/) (Easy) and assign webhook variable in below code.
  - Enter all the Kyes and URL from userapi.ai [Dashboard](https://dashboard.userapi.ai/discord-accounts) in the code provided below in this repo.
  - All the base code is provided in the [CODE](https://github.com/00siddhant00/Midjoureny-API-For-Unity/blob/main/Assets/Scripts/MidjourneyAPIs.cs)
    - Callbacks Used:
